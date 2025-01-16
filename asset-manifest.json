@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/face-game-web/static/css/main.d0b15589.css",
-    "main.js": "/face-game-web/static/js/main.b362eb1a.js",
+    "main.js": "/face-game-web/static/js/main.40065711.js",
     "static/js/488.46d96a00.chunk.js": "/face-game-web/static/js/488.46d96a00.chunk.js",
     "index.html": "/face-game-web/index.html",
     "main.d0b15589.css.map": "/face-game-web/static/css/main.d0b15589.css.map",
-    "main.b362eb1a.js.map": "/face-game-web/static/js/main.b362eb1a.js.map",
+    "main.40065711.js.map": "/face-game-web/static/js/main.40065711.js.map",
     "488.46d96a00.chunk.js.map": "/face-game-web/static/js/488.46d96a00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0b15589.css",
-    "static/js/main.b362eb1a.js"
+    "static/js/main.40065711.js"
   ]
 }
